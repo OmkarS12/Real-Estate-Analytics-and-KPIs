@@ -22,3 +22,4 @@ Logistic Regression for Pricing Predictions:
 Tableau Dashboard Development:
 -Created a Tableau Dashboard with calculated fields.
 -Focused on tracking and predicting key performance indicators, emphasizing sales trends.
+<img width="990" alt="image" src="https://github.com/OmkarS12/Real-Estate-Analytics-and-KPIs/assets/122317280/eb3c4bb0-665b-4dd7-919a-2acfcfd78bf0">
